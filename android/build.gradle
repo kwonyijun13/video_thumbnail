@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace = "com.example.flutter_app"
+    namespace = "com.example.downloader_app"
     compileSdkVersion 33
 
     defaultConfig {
